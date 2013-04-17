@@ -1,121 +1,56 @@
 contact:
-    name: Harper Reed
-    email: 'harper@nata2.org'
-    page: '[harperreed.org](https://harperreed.org)'
-    github: '[github.com/harperreed](https://github.com/harperreed)'
-    linkedin: '[linkedin.com/in/harperreed](http://www.linkedin.com/in/harperreed)'
-    twitter: '[@harper](http://twitter.com/harper)'
+    name: Darius Roberts
+    email: 'darius.roberts@gmail.com'
+    page: '[dariusroberts.com](http://dariusroberts.com)'
+    github: '[github.com/jdar](https://github.com/jdar)'
+    linkedin: '[linkedin.com/in/dariusroberts](http://www.linkedin.com/in/dariusroberts)'
+    twitter: '[@jdar](http://twitter.com/jdar)'
 
 work:
 
-    - employer: Obama for America 
-      title: Chief Technology Officer
-      location: 'Chicago, IL'
-      dates: April 2011 - Present
-      note: Obama for America is the relection campaign for President Barack Obama.
+    - employer: Self-employed
+      title: Data Scientist
+      location: 'Washington D.C.'
+      dates: 2013 - Present
+      note: Stealth mode for new data product
 
-    - employer: Rackspace Hosting
-      title: Customer in Residence
-      location: 'San Antonio, TX'
-      dates: October 2009 - April 2010
-      note: Rackspace is an IT hosting company with a focus on cloud.
+    - employer: major data warehouse. insurance data 
+      title: Tech lead
+      location: 'Washington D.C.'
+      dates: February 2010 - February 2013
+      note: 
       description:
-        - 'Worked with professional services department to help clients find the right solution. '
-        - 'Worked with executive staff to help define better customer experience'
-        - 'Represented Rackspace at conferences and small events.'
-
-    - employer: skinnyCorp, LLC
-      title: Chief Technology Officer
-      location: 'Chicago, IL'
-      dates: August 2005 - October 2009
-      note: skinnyCorp is the parent company of the Threadless.com.
-      description:
-        - 'Acted as technology leader for a company of ~60 people with revenue of ~20-30M'
-        - 'Worked in a close team to design, execute and manage community websites'
-        - 'Lead the technology to support Threadless.com growth.'
-        - 'Grew Threadless.com from 2 barely functioning servers to over 45 devices.'
-        - 'Helped bridge the gap between the internet and reality with 2 retail stores.'
-        - 'Spoke about our technology at various events and conference, representing skinnyCorp and the Threadless vision.'
-        - 'Managed a small team of engineers to handle the day to day maintenance and projects.'
-
-    - employer: Squidoo
-      title: Summer Intern
-      location: 
-      dates: June 2005 - August 2005
-      note: Squidoo is a community website that allows users to create pages for subjects of interest.
-      description:
-        - 'Worked with Seth Godin and an amazing team to help build an design the initial version of Squidoo.'
-        - 'Helped define initial vision and technology for Squidoo before core staff was hired'
-
-    - employer: Cramer and Krasselt
-      title: Web Programmer
-      location: 'Chicago, IL'
-      dates: October 2004 - July 2005
-      note: Cramer And Krasselt is an industry leading medium sized advertising agency.
-      description:
-        - 'Lead technologist and technical liaison to account management and creative staff.'
-        - 'Lead architect for client web applications. Worked with clients Airtran.com, Careerbuilder.com, and Barton Beers. (PHP, MYSQL, LINUX)'
-        - 'Lead engineer on full life cycle of Super Bowl viral campaign, Yeknominc.com. (PHP, MYSQL, LINUX)'
-        - 'Managed legacy operations for client web application management. (Perl, Navitaire SkyLights, JAVA)'
-
-    - employer: World Book Publishing
-      title: Security and Software Engineer
-      location: 'Chicago, IL'
-      dates: June 2001 - October 2004
-      note: World Book Publishing is a leading publisher of encyclopedias and children's learning material.
-      description:
-        - 'Lead development staff and managed offshore engineering team. Worked to develop and maintain World Book Publishing''s client facing web presence. Helped usher in new technology and standards - moving from AIX, DB2 on IBM hardware to Solaris, Oracle on Sun Hardware. Introduced open source technology and solution. (Solaris, JAVA, DB2, AIX, XML)'
-        - 'Wrote desktop content management utilities to aid in management of XML content by non-technical staff. (C#, PHP)'
-        - 'Developed practices to insure content accessibility and data portability. (JAVA, XML, XSLT, C#, DB2)'
-        - 'Helped develop a solid software security plan. Worked with system engineers to architect a secure production environment. Deployed production servers using open source software to meet budget constraints. (LINUX, NMAP, NESSUS, SOLARIS, AIX)'
+        - 'Worked with ' 
 
 skills:
     - name: 'Application Development'
       skills:
+        - Ruby
         - Python
         - PHP
-        - Ruby
-        - 'C#'
+        - Java
     - name: 'Platforms'
       skills:
-        - 'Unix (Linux, Solaris, AIX)'
+        - 'Unix (Linux)'
         - OSX
     - name: 'Databases'
       skills:
         - MySQL
         - NoSQL
-        - LotsOfSQL
     - name: 'System Software'
       skills:
         - Apache 
-        - Lighttpd
-        - Tornado
-        - Varnish
-        - nginx
-        - PHP
-        - Python
-        - Memcached
-        - Ejabberd
-        - Qmail
+        - Boxen (puppet)
         - Postfix
-        - Courier-IMAPd
-        - Endeca
 
     - name: 'Cloud Infrastructure'
       skills:
-        - 'Rackspace Cloud'
         - Slicehost
-        - 'AWS (S3, ec2, EBS, SimpleDB)'
-        - Zerigo DNS
+        - 'AWS (S3, ec2, opsworks)'
         - Google App Engine
     - name: Security
       skills:
         - PGP
-        - Nessus
-        - NMap
-        - ACiD/Snort
-        - Portsentry
-        - IPF
         - Linux Firewalling
         - General Linux security
     - name: 'Markup Languages'
@@ -128,24 +63,21 @@ skills:
         - Markdown
 
 education:
-    - degree: 'Bachelor of Arts, Computer Science and Philosophy' 
-      name: Cornell College
-      location: 'Mt Vernon, Iowa'
-      dates: 2001
+    - degree: 'Bachelor of Science, Civil and Environmental Engineering'
+      name: Rice University
+      location: 'Houston, TX'
+      dates: 2004
+
+    - degree: 'None, Transportation Policy'
+      name: "UC Davis, Institute of Transportation Studies"
+      location: 'Davis, CA'
+      dates: 2007
 
 awards:
   -
-    name: "PRIX ARS ELECTRONICA"
-    location: "Linz, Austria"
-    awards:
+    name: "BigBang business plan competition"
+    location: "UC Davis"
       -
-        name: "Net Vision Honorary Mention"
-        date: "2002"
-  -
-    name: "MCIC"
-    location: "Chicago, IL"
-    awards:
-      -
-        name: " Data Innovation Award for the hacking the Chicago Transit Authority Bus API"
-        date: "2010"
+        name: "Crowd favorite"
+        date: "2007"
 
